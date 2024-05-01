@@ -2,9 +2,9 @@
 Sentiment Analysis on Financial News 
 
 Project Structure
+
+
 Code/
-
-
 
 Bert_basic.ipynb: Notebook for BERT experiment
 SentimentAnalysis_SVCTFIDF.ipynb: Notebook for SVC + TFIDF experiment
